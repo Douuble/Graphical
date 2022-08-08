@@ -1,0 +1,13 @@
+﻿  源.cpp
+C:\Users\Double\OneDrive\EasyX\作业\时钟\时钟\源.cpp(44,19): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Double\OneDrive\EasyX\作业\时钟\时钟\源.cpp(45,19): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Double\OneDrive\EasyX\作业\时钟\时钟\源.cpp(52,43): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Double\OneDrive\EasyX\作业\时钟\时钟\源.cpp(53,43): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Double\OneDrive\EasyX\作业\时钟\时钟\源.cpp(54,57): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Double\OneDrive\EasyX\作业\时钟\时钟\源.cpp(55,32): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Double\OneDrive\EasyX\作业\时钟\时钟\源.cpp(56,32): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Double\OneDrive\EasyX\作业\时钟\时钟\源.cpp(57,32): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Double\OneDrive\EasyX\作业\时钟\时钟\源.cpp(58,32): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Double\OneDrive\EasyX\作业\时钟\时钟\源.cpp(59,30): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Double\OneDrive\EasyX\作业\时钟\时钟\源.cpp(60,30): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  时钟.vcxproj -> C:\Users\Double\OneDrive\EasyX\作业\时钟\Debug\时钟.exe
